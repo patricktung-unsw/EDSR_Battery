@@ -1,0 +1,17 @@
+# Ignore data and checkpoints directories
+data/
+ckpt/
+
+# Ignore log files
+logs/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+notebooks/
+
+# Ignore environment files
+.env
