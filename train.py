@@ -1,6 +1,6 @@
 import argparse
 import torch
-import yaml
+import yaml # type: ignore
 from models.model_factory import get_model # type: ignore
 # from datasets import data_loader
 from datasets.get_dataset import get_dataset

@@ -2,7 +2,7 @@
 
 default_config = {
     # Dataset parameters
-    'dataset': 'DIV2K_vol_2D',
+    'dataset': 'DIV2K_vol_2D',  # 
     'data_root': r"C:\Users\Patrick\Downloads\EDSR_Battery\data",
     # 'split': 'train',
     # 'scale': 4,
