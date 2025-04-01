@@ -25,7 +25,7 @@ default_config = {
     'res_scaling': 0.1,
 
     # Training parameters
-    'num_epochs': 100,
+    'num_epochs': 10,
     'learning_rate': 0.0001,
     'scheduler_patience': 10,
     'scheduler_factor': 0.5,
